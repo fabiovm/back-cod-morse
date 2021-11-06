@@ -1,0 +1,19 @@
+{
+  "name": "back-cod-morse",
+  "version": "1.0.0",
+  "description": "Tradução Código Morse",
+  "main": "index.js",
+  "dependencies": {
+    "await-to-js": "^3.0.0",
+    "express": "^4.17.1",
+    "parse-error": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/server.js"
+  },
+  "keywords": [],
+  "author": "Fábio Moura",
+  "license": "ISC"
+}
